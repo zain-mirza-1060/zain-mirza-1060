@@ -1,19 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center">Hi 👋, I'm Zain Ul Abideen</h1>
-<h3 align="center">An Enthusiastic final year Computer Science student with a passion for leveraging data science and mobile development to create impactful solutions. I am currently exploring the intersection of these fields to build innovative mobile applications that unlock meaningful insights and enhance user experiences.</h3>
+<h1 align="center">Zain Ul Abideen</h1>
+<h3 align="left">An Enthusiastic final year Computer Science student with a passion for leveraging data science and mobile development to create impactful solutions. I am currently exploring the intersection of these fields to build innovative mobile applications that unlock meaningful insights and enhance user experiences.👌</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-mirza-1060&label=Profile%20views&color=0e75b6&style=flat" alt="zain-mirza-1060" /> </p>
 
-- 🔭 I’m currently working on **CheckMate (Final Year Project)**
+- 🔭 Currently working on **CheckMate (My FYP)**
 
-- 🌱 I’m currently learning **Django , Java**
+- 🌱 Learning **Django & Java**
 
-- 💬 Ask me about **Flutter**
+- 💬 Experienced in **Flutter and Data Science**
 
-- 📫 How to reach me **zainulabideen1060@gmail.com**
+- 📫 Reach me at **zainulabideen1060@gmail.com**
 
 - ⚡ Fun fact **I am a One Piece fan.**
 
