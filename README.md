@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋,  I'm Zain Ul Abideen</h1>
-<h3 align="left">I'm a passionate Software Engineer with a background in Computer Science, currently working full-time in the industry. I’m deeply interested in leveraging the power of data science and software development to build impactful solutions. At the moment, I’m exploring the intersection of these fields to create innovative applications that deliver meaningful insights and enhance user experiences. ✨✨.</h3>
+<h3 align="left">I'm a passionate Software Engineer with a background in Computer Science, currently working full-time in the industry. I’m deeply interested in leveraging the power of data science and software development to build impactful solutions. At the moment, I’m exploring the intersection of these fields to create innovative applications that deliver meaningful insights and enhance user experiences ✨✨.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
